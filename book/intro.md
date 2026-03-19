@@ -37,6 +37,3 @@ La navegacion esta organizada a partir del mismo notebook principal, dividido en
 3. Modelado con PySpark y comparacion.
 4. Interpretabilidad con LIME y conclusion.
 
-```{note}
-Cada capitulo del menu lateral proviene del notebook base y conserva su contenido tecnico.
-```
