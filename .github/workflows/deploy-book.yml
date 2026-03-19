@@ -36,7 +36,7 @@ jobs:
       - name: Build book
         run: |
           cd book
-          jupyter-book build --html
+          BASE_URL="/${GITHUB_REPOSITORY#*/}" jupyter-book build --html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
