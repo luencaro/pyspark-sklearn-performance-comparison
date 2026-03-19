@@ -1,16 +1,17 @@
 version: 1
 project:
   title: Prediccion de Default en Prestamos
+  description: Comparacion de rendimiento entre scikit-learn y PySpark para prediccion de default en Lending Club.
   authors:
     - name: Proyecto Integrador de Aprendizaje Automatico
   toc:
     - file: intro.md
-    - file: proyecto.md
-    - file: metodologia.md
-    - file: notebook.ipynb
-    - file: resultados.md
+    - file: notebooks/01_preparacion_eda_preprocesamiento.ipynb
+    - file: notebooks/02_modelado_scikit_learn.ipynb
+    - file: notebooks/03_modelado_pyspark.ipynb
+    - file: notebooks/04_interpretabilidad_lime_y_conclusion.ipynb
 site:
   options:
-    logo: ''
+    logo: assets/logo.png
     folders: true
   template: book-theme
