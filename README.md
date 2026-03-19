@@ -1,4 +1,4 @@
-# Predicción de Default en Préstamos: Lending Club 🏦
+# Predicción de Default en Préstamos: Lending Club 
 
 Este proyecto constituye el **Proyecto Integrador de Aprendizaje Automático**. El objetivo principal es desarrollar y comparar modelos de clasificación supervisada para predecir el riesgo de impago (default) utilizando el histórico de préstamos de la plataforma Lending Club (2007–2020).
 
