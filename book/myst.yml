@@ -1,0 +1,16 @@
+version: 1
+project:
+  title: Prediccion de Default en Prestamos
+  authors:
+    - name: Proyecto Integrador de Aprendizaje Automatico
+  toc:
+    - file: intro.md
+    - file: proyecto.md
+    - file: metodologia.md
+    - file: notebook.ipynb
+    - file: resultados.md
+site:
+  options:
+    logo: ''
+    folders: true
+  template: book-theme

@@ -6,3 +6,5 @@ pyarrow
 scikit-learn
 pyspark
 lime
+jupyter-book
+myst-parser

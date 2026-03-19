@@ -1,2 +1,4 @@
 Data/*
 !Data/df_parsed.parquet
+
+book/_build/
